@@ -1,4 +1,4 @@
-package game;
+package template;
 
 public class TemplatePatternDemo {
     public static void main(String[] args) {

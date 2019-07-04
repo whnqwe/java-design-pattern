@@ -1,4 +1,4 @@
-package game;
+package template;
 
 public abstract class Game {
     abstract void initialize();
