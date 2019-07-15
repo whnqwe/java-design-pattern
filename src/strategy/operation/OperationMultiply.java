@@ -1,4 +1,4 @@
-package strategy;
+package strategy.operation;
 
 public class OperationMultiply  implements Strategy{
     @Override

@@ -1,4 +1,4 @@
-package strategy;
+package strategy.operation;
 
 public class StrategyPatternDemo {
     public static void main(String[] args) {
